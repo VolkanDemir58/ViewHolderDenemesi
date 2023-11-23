@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Ogrenciler">
+
+        <item>Volkan</item>
+
+        <item>İlayda</item>
+
+        <item>Ayşe</item>
+
+        <item>Beyza</item>
+
+        <item>Fatma</item>
+
+        <item>Orhan</item>
+
+        <item>Tolga</item>
+
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
